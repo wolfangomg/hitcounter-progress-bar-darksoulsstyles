@@ -6,5 +6,5 @@ This a customized files to have hitcountermanager only with progress bar and onl
 ## Dark Souls Remastered
 ![si](https://github.com/wolfangomg/hitcounter-progress-bar-darksoulsstyles/blob/main/faq/1.png)
 
-## Dark Souls 2: Scholar of First Sin
+## Dark Souls 2: Scholar of the First Sin
 ![si](https://github.com/wolfangomg/hitcounter-progress-bar-darksoulsstyles/blob/main/faq/2.png)
